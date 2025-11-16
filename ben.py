@@ -1,4 +1,4 @@
 print('hi')
 
 for i in range(6):
-    print(i) 
+    print(i, end=' ')
