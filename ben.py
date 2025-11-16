@@ -8,3 +8,5 @@ print('hi')
 print('helo')
 
 print('idk')
+
+print('nobita')
